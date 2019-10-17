@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TimerPickerDialog_Minute_Secands</string>
+    <string name="ok">ok</string>
+    <string name="cancel">cancel</string>
+</resources>

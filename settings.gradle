@@ -1,0 +1,2 @@
+include ':app', ':timerpickerdialog_minute_secands'
+rootProject.name='TimeDialog_ForMinute_and_secands'
