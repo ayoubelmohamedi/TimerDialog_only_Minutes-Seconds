@@ -1,6 +1,8 @@
 # TimerDialog_only_Minutes-Seconds
 this android library will give you a custom Timer dialog that contains only minutes and seconds.
 
+![here is an example of the timerpickerDialog](timerPickerDialog.jpeg)
+
 you can use the dialog by implemening the interface DialogEvent that contain three method (onPositiveDialogResult,onNegativeDialogResult,onDialogCancelled).
 
 Also here is another method that it will help you for using this dialog in multiple places :
