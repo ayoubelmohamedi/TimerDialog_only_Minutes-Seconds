@@ -1,5 +1,5 @@
 # TimerDialog_only_Minutes-Seconds
-this android library will give you a custom Timer dialog that contains only minutes and seconds.
+this will give you a custom Timer dialog that contains only minutes and seconds.
 
 ![here is an example of the timerpickerDialog](timerPickerDialog.jpeg)
 
